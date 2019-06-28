@@ -1,0 +1,9 @@
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\bin\Debug\SolutisTreinamentoDotNet_HalissonRobot.dll
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\bin\Debug\SolutisTreinamentoDotNet_HalissonRobot.pdb
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\bin\Debug\robocode.dll
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\bin\Debug\robocode.xml
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\obj\Debug\HalissonRobot.csprojAssemblyReference.cache
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\obj\Debug\HalissonRobot.csproj.CoreCompileInputs.cache
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\obj\Debug\HalissonRobot.csproj.CopyComplete
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\obj\Debug\SolutisTreinamentoDotNet_HalissonRobot.dll
+C:\Users\Halisson\Documents\Code\Desafio-Solutis-coding-a-robot\DesafioSolutis\HalissonRobot\obj\Debug\SolutisTreinamentoDotNet_HalissonRobot.pdb
